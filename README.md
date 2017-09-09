@@ -1,2 +1,3 @@
-# COMP4711Lab1
+Silly Students
+
 COMP4711 lab 1
